@@ -1,0 +1,43 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+/Strict Fibo Test
+/packages/Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.7
+/.vs/StrictFibonacciHeaps
+/StrictFibonacciHeaps/x64/Debug
+/StrictFibonacciHeaps/StrictFibonacciHeaps.vcxproj
+/StrictFibonacciHeaps/StrictFibonacciHeaps.vcxproj.filters
+/StrictFibonacciHeaps/StrictFibonacciHeaps.vcxproj.user
+/x64/Debug
+/StrictFibonacciHeaps.sln
+/StrictFibonacciHeaps/main.cpp
+/.gitignore
